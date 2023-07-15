@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    background-color: rgba(0, 10, 37, 0.904);
+}
+
+
+div.container{
+    margin: 100px auto;
+    padding: 10px;
+    max-width: 800px;
+    box-shadow: -2px -2px 5px 0px rgba(211, 211, 211, 0.521), 2px 2px 5px 4px black;
+    border-radius: 5px;
+}
+
+div{
+    text-align: center;
+}
+
+
+button{
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    color: white;
+    background-color: rgb(0, 10, 37);
+    border: 0px;
+    border-radius: 5px;
+    box-shadow: -2px -2px 5px 0px rgba(211, 211, 211, 0.521), 2px 2px 5px 4px black;
+}
+
+
+.press{
+    background-color: rgb(255, 57, 22);
+    box-shadow: none;
+    transform: scale(1.2);
+}
